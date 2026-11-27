@@ -1,2 +1,7 @@
 # test-project
-Creating projrct for github learning
+Creating project for github learning
+
+# Info
+### **Name:** Sohail Abbas
+<br>
+
